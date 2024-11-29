@@ -1,4 +1,5 @@
 # Inteligencia Artificial Avanzada para la Ciencia de Datos II (Gpo 101)
+#María Fernanda Pérez Ruiz (A01742102)
 
 ## Acerca del repositorio
 Este repositorio contiene el trabajo desarrollado por **María Fernanda Pérez Ruiz (A01742102)** en el curso *Inteligencia Artificial Avanzada para la Ciencia de Datos II*. Está organizado en dos secciones principales: **Portafolio de Implementación** y **Portafolio de Análisis**, con contenido relacionado a técnicas avanzadas en ciencia de datos, aprendizaje profundo, procesamiento de lenguaje natural, análisis estadístico, big data y cómputo en la nube.
