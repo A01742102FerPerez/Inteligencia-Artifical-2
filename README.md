@@ -23,4 +23,11 @@ Este repositorio contiene el trabajo desarrollado por **María Fernanda Pérez R
 - **[Cómputo en la nube]**: Todas las actividades realizadas en clase.
 
 ---
+### Reto
+
+- **[Reto reporte]**
+- **[Código del Reto]**
+- **[Póster]**
+
+---
 
